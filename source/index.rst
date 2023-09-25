@@ -11,5 +11,5 @@ Sommaire :
 .. toctree:: 
    :maxdepth: 2 
 
-   00_Intro 
-   01_Presentation
+   Page0 
+   Page1
