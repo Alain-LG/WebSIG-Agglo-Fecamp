@@ -6,10 +6,10 @@
 Bienvenue sur la documentation du WebSIG de la Communauté d'Agglomération Fécamp Caux Littoral
 ==============================================================================================
 
-Contents: 
+Sommaire : 
 
 .. toctree:: 
    :maxdepth: 2 
 
-   Page0 
-   Page1
+   00_Intro 
+   01_Presentation
