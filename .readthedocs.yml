@@ -10,6 +10,14 @@ build:
   tools:
     python: "3.11"
 
+sphinx:
+#  configuration: docs/source/conf.py
+  fail_on_warning: true
+
+formats:
+  - pdf
+  - epub
+
 # mkdocs:
 #  configuration: mkdocs.yml
 
