@@ -5,10 +5,9 @@ Premiere page
 Introduction 
 ************ 
 
-Ceci est le texte de la première page de notre demo. Il vise \ 
-à introduire le fonctionnement de Sphinx-doc pour créer de la documentation. 
+La Communauté d'Agglomération Fécamp Caux Littoral a développé son Système d'Information Géographique. 
 
-Lien 
-==== 
+Concept 
+=======
 
-Pour plus d'informations sur Sphinx-doc, je vous invite à consulter le `site officiel <http://sphinx-doc.org/>`_.
+Pour accéder directement à cette application en ligne, il faut consulter le `site officiel <https://agglofecampcauxlittoral.lizmap.com/carto>`_.
